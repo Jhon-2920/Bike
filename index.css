@@ -1,0 +1,44 @@
+body{
+    background-color:#b1b1b1
+}
+
+div{
+    width: 2500px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 40px 60px 60px 60px;
+
+}
+ 
+img{
+    
+    width: 2500px;
+ }
+
+
+h1{
+    font-size:90px;
+    font-family: verdana;
+    border: solid 5px red;
+    margin:-43px -60px 20px -60px;    
+    padding-top:20px;
+    padding-bottom: 20px;
+
+
+    color:white;
+    text-align: center;
+    background-color: red;
+    margin-bottom: 40px;
+    
+    }
+   
+    p {
+    font-size:40px;
+    font-family: arial;
+    color:black;
+    text-align: left;
+
+
+}
+
+
